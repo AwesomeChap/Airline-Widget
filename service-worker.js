@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AwesomeChap/Airline-Widget/precache-manifest.76dcf842111c5ea89d9878ceaf729859.js"
+  "/Airline-Widget/precache-manifest.35b31ca2fb3778f936fd3504025d5b01.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/AwesomeChap/Airline-Widget/index.html", {
+workbox.routing.registerNavigationRoute("/Airline-Widget/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
