@@ -4,8 +4,8 @@ Project is live at https://awesomechap.github.io/Airline-Widget/
 
 # Preview
 
-![alt text](public/images/image1.png "Input File")   
-![alt text](public/images/image2.png "Input File")   
+![alt text](public/images/image1.PNG "Input File")   
+![alt text](public/images/image2.PNG "Input File")   
 
 ## Available Scripts
 
