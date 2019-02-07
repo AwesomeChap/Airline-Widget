@@ -1,6 +1,7 @@
 # Airline-Widget
 A React-Redux widget made with the help of redux-thunk.
-Project is live at https://awesomechap.github.io/Airline-Widget/
+Project is live at https://awesomechap.github.io/Airline-Widget/.
+If you wish to play with code, then you may go [here](https://codesandbox.io/embed/l5loy0wj4z);
 
 # Preview
 
