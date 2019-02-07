@@ -4,9 +4,9 @@ Project is live at https://awesomechap.github.io/Airline-Widget/
 
 # Preview
 
-<img src="https://github.com/AwesomeChap/Airline-Widget/blob/master/public/images/image1.PNG" width="400">
+<img align="left" src="https://github.com/AwesomeChap/Airline-Widget/blob/master/public/images/image1.PNG" width="430" hspace="20">
 
-<img src="https://github.com/AwesomeChap/Airline-Widget/blob/master/public/images/image2.PNG" width="400">
+<img align="left" src="https://github.com/AwesomeChap/Airline-Widget/blob/master/public/images/image2.PNG" width="430" hspace="20">
 
 ## Available Scripts
 
